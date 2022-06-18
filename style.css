@@ -296,11 +296,16 @@ footer {
   #skils {
     display: flex;
     justify-content: center;
+    margin-top: 260px;
   }
   .imagens {
     display: flex;
     flex-direction: column;
     justify-content: center;
+  }
+
+  #contact {
+    margin-top: 250px;
   }
 
 }
